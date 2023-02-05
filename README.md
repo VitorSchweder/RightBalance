@@ -1,2 +1,2 @@
-# RightBalance
-Minesweeper
+# Minesweeper
+
